@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8251d38f-cbf6-49d3-9720-8a711faf152f" name="Changes" comment="create test cases for link example">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OpenGoogle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionKeyBoardOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionsMouseOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrokenImageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalenderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DropDownExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FrameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandlingAllControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavascriptExecutorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LinkExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OpenGoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Radio_CheckBox_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Screenshots/TakeScreenshotExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumWaits/ExplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumWaits/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumWaits/ImplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TextBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/downloaduploadfileexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/windowTestsPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nimashav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nimashav/Selenium-Testing.git&quot;,
+    &quot;accountId&quot;: &quot;eba6feee-a5dd-4475-b44c-0196bf1a2506&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30ihd5t79PLupsxraDJODpi09vY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.OpenGoogle.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.ActionKeyBoardOperationExample.KeyboardOperationsTest1.executor": "Run",
+    "TestNG.ActionKeyBoardOperationExample.KeyboardOperationsTest2.executor": "Run",
+    "TestNG.ActionsMouseOperationsExample.KeyboardOperationsTest.executor": "Run",
+    "TestNG.ActionsMouseOperationsExample.MouseOperationsTest.executor": "Run",
+    "TestNG.AlertExample.alertTests.executor": "Run",
+    "TestNG.BrokenImageExample.findBrokenImageTest.executor": "Run",
+    "TestNG.BrokenImageExample.findBrokenImageTestTwo.executor": "Run",
+    "TestNG.ButtonExample.buttonTest.executor": "Run",
+    "TestNG.CalenderExample.calnderTest.executor": "Run",
+    "TestNG.DropDownExample.executor": "Run",
+    "TestNG.DropDownExample.googleSearchDropDown.executor": "Run",
+    "TestNG.DropDownExample.leafgroundpageDropDownTest.executor": "Run",
+    "TestNG.ExplicitWaitDemo.explicitWaitTest.executor": "Run",
+    "TestNG.FluentWaitDemo.fluentWaitTest.executor": "Run",
+    "TestNG.FrameExample.frameTests.executor": "Run",
+    "TestNG.HandlingAllControls.googleTest.executor": "Run",
+    "TestNG.ImplicitWaitDemo.implicitWaitTests.executor": "Run",
+    "TestNG.JavascriptExecutorExample.jsExecuorTests.executor": "Run",
+    "TestNG.LinkExample.LinkTests.executor": "Run",
+    "TestNG.OpenGoogleTest.executor": "Run",
+    "TestNG.OpenGoogleTest.googleTest.executor": "Run",
+    "TestNG.Radio_CheckBox_Example.CheckBoxTest.executor": "Run",
+    "TestNG.Radio_CheckBox_Example.radioTests.executor": "Run",
+    "TestNG.TakeScreenshotExample.executor": "Run",
+    "TestNG.TakeScreenshotExample.takeScreenshotTests.executor": "Run",
+    "TestNG.TextBoxExample.executor": "Run",
+    "TestNG.TextBoxExample.textBoxTests.executor": "Run",
+    "TestNG.WebTableExample.executor": "Run",
+    "TestNG.downloaduploadfileexample.DownloadTest.executor": "Run",
+    "TestNG.downloaduploadfileexample.UploadTest.executor": "Run",
+    "TestNG.windowTestsPage.WindowExample.executor": "Run",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TakeScreenshotExample.takeScreenshotTests">
+    <configuration name="ExplicitWaitDemo.explicitWaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumWaits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumWaits" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumWaits.ExplicitWaitDemo" />
+      <option name="METHOD_NAME" value="explicitWaitTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluentWaitDemo.fluentWaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumWaits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumWaits" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumWaits.FluentWaitDemo" />
+      <option name="METHOD_NAME" value="fluentWaitTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitWaitDemo.implicitWaitTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumWaits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumWaits" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumWaits.ImplicitWaitDemo" />
+      <option name="METHOD_NAME" value="implicitWaitTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeScreenshotExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Screenshots.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Screenshots" />
+      <option name="MAIN_CLASS_NAME" value="Screenshots.TakeScreenshotExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeScreenshotExample.takeScreenshotTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Screenshots.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Screenshots" />
+      <option name="MAIN_CLASS_NAME" value="Screenshots.TakeScreenshotExample" />
+      <option name="METHOD_NAME" value="takeScreenshotTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TakeScreenshotExample.takeScreenshotTests" />
+        <item itemvalue="TestNG.TakeScreenshotExample" />
+        <item itemvalue="TestNG.FluentWaitDemo.fluentWaitTest" />
+        <item itemvalue="TestNG.ExplicitWaitDemo.explicitWaitTest" />
+        <item itemvalue="TestNG.ImplicitWaitDemo.implicitWaitTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8251d38f-cbf6-49d3-9720-8a711faf152f" name="Changes" comment="" />
+      <created>1754116385342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754116385342</updated>
+    </task>
+    <task id="LOCAL-00001" summary="create test cases for link example">
+      <option name="closed" value="true" />
+      <created>1754458183054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754458183054</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create test cases for link example">
+      <option name="closed" value="true" />
+      <created>1754459748445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754459748445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create test cases for link example">
+      <option name="closed" value="true" />
+      <created>1754463964160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754463964160</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create test cases for link example">
+      <option name="closed" value="true" />
+      <created>1755545565710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755545565710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create test cases for link example" />
+    <option name="LAST_COMMIT_MESSAGE" value="create test cases for link example" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/HandlingAllControls.java</url>
+          <line>13</line>
+          <properties class="HandlingAllControls" method="googleTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
